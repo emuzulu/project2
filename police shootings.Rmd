@@ -1,0 +1,14 @@
+---
+title: 'What''s up with that? : police shootings'
+author: "Evans Muzulu"
+date: "11/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
